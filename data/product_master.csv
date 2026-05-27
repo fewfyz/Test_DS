@@ -1,0 +1,51 @@
+product_id,product_taxonomies,price,shelf_life_days,gross_margin_pct
+P0001,Personal Care,40.31,357,0.462
+P0002,Household,86.74,720,0.366
+P0003,Fresh Food,79.05,-1,0.185
+P0004,Household,102.49,724,0.36
+P0005,Household,33.2,734,0.363
+P0006,Snack,56.06,123,0.323
+P0007,Fresh Food,34.13,-1,0.194
+P0008,Fresh Food,94.31,-3,0.174
+P0009,Fresh Food,59.64,1,0.185
+P0010,Household,36.83,733,0.365
+P0011,Personal Care,74.61,361,0.462
+P0012,Fresh Food,18.29,5,0.213
+P0013,Household,103.44,734,0.359
+P0014,Snack,62.22,124,0.35
+P0015,Personal Care,56.49,364,0.436
+P0016,Snack,112.3,122,0.349
+P0017,Personal Care,91.36,373,0.445
+P0018,Household,49.29,726,0.352
+P0019,Beverage,74.9,186,0.341
+P0020,Personal Care,69.69,374,0.458
+P0021,Snack,115.92,113,0.331
+P0022,Household,103.68,724,0.382
+P0023,Personal Care,93.47,361,0.447
+P0024,Beverage,71.67,182,0.353
+P0025,Beverage,76.61,184,0.356
+P0026,Fresh Food,116.35,7,0.175
+P0027,Fresh Food,78.74,0,0.192
+P0028,Snack,43.98,122,0.305
+P0029,Personal Care,46.11,361,0.468
+P0030,Personal Care,32.35,373,0.448
+P0031,Fresh Food,16.64,-2,0.229
+P0032,Personal Care,59.46,364,0.444
+P0033,Personal Care,56.46,367,0.469
+P0034,Beverage,45.82,175,0.368
+P0035,Fresh Food,16.48,8,0.179
+P0036,Household,35.88,731,0.38
+P0037,Fresh Food,89.69,16,0.212
+P0038,Household,97.97,730,0.402
+P0039,Beverage,78.63,176,0.34
+P0040,Snack,112.26,110,0.303
+P0041,Personal Care,83.36,355,0.463
+P0042,Beverage,111.07,189,0.369
+P0043,Personal Care,104.25,367,0.441
+P0044,Snack,62.19,118,0.296
+P0045,Snack,25.02,112,0.346
+P0046,Beverage,53.94,176,0.344
+P0047,Snack,85.23,115,0.321
+P0048,Household,84.92,727,0.4
+P0049,Snack,77.09,118,0.331
+P0050,Personal Care,43.85,359,0.464

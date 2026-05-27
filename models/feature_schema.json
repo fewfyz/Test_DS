@@ -1,0 +1,25 @@
+{
+  "feature_columns": [
+    "month",
+    "weekday",
+    "day_of_year",
+    "is_weekend",
+    "is_month_end",
+    "quarter",
+    "discount_pct",
+    "is_promo",
+    "lag_1d_qty",
+    "lag_7d_qty",
+    "lag_14d_qty",
+    "roll_7d_qty",
+    "roll_14d_qty",
+    "roll_30d_qty",
+    "price",
+    "gross_margin_pct",
+    "shelf_life_days",
+    "cat_enc",
+    "store_enc",
+    "prod_enc"
+  ],
+  "target": "daily_qty"
+}

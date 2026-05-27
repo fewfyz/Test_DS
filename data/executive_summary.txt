@@ -1,0 +1,36 @@
+
+============================================================================
+  EXECUTIVE SUMMARY -- SME Retail Revenue Intelligence
+  Data Science Solution | 2026-05-28
+============================================================================
+  BUSINESS CONTEXT
+  * 3 stores (Chiang Mai, Bangkok, Phuket), 2 warehouses
+  * 50 products across 5 categories, 500 customers, 7 promotions
+============================================================================
+  2025 PERFORMANCE (MOCK DATA)
+  * Total Revenue      :    5,052,313.64 THB
+  * Total Transactions :          18,082
+  * Total Units Sold   :          74,355
+============================================================================
+  FORECASTING MODEL
+  * Algorithm          : Gradient Boosting (300 trees)
+  * Baseline WAPE      : 0.4465
+  * Model WAPE         : 0.4381
+  * WAPE Improvement   : 0.0084 (1.9% better)
+============================================================================
+  INVENTORY OPPORTUNITIES
+  * Reorder candidates : 107 store-product pairs
+  * Revenue Opportunity:      358,034.11 THB
+  * HIGH Stockout Risk : 105 items requiring immediate action
+============================================================================
+  PROMOTION PERFORMANCE
+  * Avg Promotion ROI  : 0.262
+  * Profitable promos  : 3 pairs (ROI > 1.0)
+  * Unprofitable promos: 52 pairs (ROI <= 1.0) -- revise discount
+============================================================================
+  RECOMMENDATIONS
+  1. Immediate: Restock 105 HIGH-risk SKUs to prevent revenue loss
+  2. Short-term: Replace unprofitable discounts with targeted campaigns
+  3. Medium-term: Automate weekly reorder via ML pipeline
+  4. Long-term: Expand to customer-level CLV model for CRM
+============================================================================
